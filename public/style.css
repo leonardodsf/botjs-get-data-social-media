@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  gap: .4rem;
+}
+
+.container div{
+  display: flex;
+  align-content: center;
+}
+
+div img{
+  widows: 100px;
+  height: 100px;
+}
+
+.container div img{
+  margin-right: 10px;
+}
