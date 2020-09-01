@@ -1,6 +1,6 @@
 ### Comando para instalar todas dependências caso não tenha a pasta node_modules no projeto
 
-```npm install``
+```npm install```
 
 ### Configuração com o banco de dados:
 
@@ -15,4 +15,4 @@ se preferir apenas o retorno do json, comente a linha de código do insert.
 
 ### Após instalar todas as dependências e configurar o banco de dados, utilize o comando abaixo para iniciar o servidor e a conexão com o banco de dados
 
-``npm start``
+```npm start```
